@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating videogames and AI simulations
 - 🌱 I’m currently learning Java, PHP, GIT, Ubuntu Server
 - 🙌 I already know SQL, HTML, CSS and a lot of Java
-- 💞️ I’m looking to collaborate on Vifeogame developments and AI simulations
+- 💞️ I’m looking to collaborate on Videogame developments and AI simulations
 - 📫 How to reach me: You can send me an Email to huchanserio@gmail.com
 
 <!---
